@@ -41,8 +41,6 @@ Run the main FuExoMLP experiments with:
 sh ./scripts/covariate_forecasting/FuExoMLP.sh
 ```
 
-Generated experiment outputs are intentionally not included in this anonymous package.
-
 ## License
 
 Some benchmark components are adapted from public open-source forecasting libraries. Their original licenses are preserved under `THIRD_PARTY_LICENSES/`.
