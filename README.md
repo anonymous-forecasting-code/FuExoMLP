@@ -1,4 +1,4 @@
-# FuExoMLP: Lightweight MLP with State-Conditioned Future Mapping for Time Series Forecasting with Known Future Exogenous Variables
+# FuExoMLP: Lightweight State-Conditioned Future Mapping for Time Series Forecasting with Known Future Exogenous Variables
 
 This repository contains the anonymous code package for the paper above. It includes the model implementation, benchmark runner, datasets, and experiment scripts needed to reproduce the main forecasting experiments.
 
